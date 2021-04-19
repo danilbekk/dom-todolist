@@ -1,0 +1,26 @@
+.content {
+  width: 300px;
+
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.list__item {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.checkbox {
+  background-color: rgb(255, 193, 79);
+  
+}
+
+.checkbox:hover {
+  
+}
+
+.listt {
+  background-color: rgb(248, 189, 80);
+}
